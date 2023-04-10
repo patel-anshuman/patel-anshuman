@@ -49,11 +49,14 @@ I'm a Full Stack Web Developer based in Sambalpur, Odisha, with expertise in MER
     •Individual project accomplished in 5 days  
 
 **👨🏻‍🎓 Education**  
-• Full Stack Web Development (Full Time)      Masai School
-  Nov 2022 – Jul 2023                               Remote  
-• Bachelor of Technology (Civil Engineering)
-  Government College of Engineering, Keonjhar
-  Aug 2016 – Aug 2020                     Keonjhar, Odisha  
+• Full Stack Web Development (Full Time)  
+    Masai School  
+    Nov 2022 – Jul 2023  
+    Remote  
+• Bachelor of Technology (Civil Engineering)  
+    Government College of Engineering, Keonjhar  
+    Aug 2016 – Aug 2020  
+    Keonjhar, Odisha  
 
 **ℹ️ Contact Me**  
 Email: patelanshuman6@gmail.com
