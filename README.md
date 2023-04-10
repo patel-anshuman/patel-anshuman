@@ -11,42 +11,42 @@ I'm a Full Stack Web Developer based in Sambalpur, Odisha, with expertise in MER
 
 
 **⚒️ Projects**  
-1. CitySwagger - Clone of CharlesTyrwhitt.com
-    Github Repo: https://github.com/patel-anshuman/handsomely-clam-5290
-    Deployed Link: https://cheerful-zabaione-aa785a.netlify.app/
-    Charles Tyrwhitt is a British menswear brand known for its high-quality and affordable men's shirts, suits, shoes, and accessories.
-    • Features: 
-        - Landing page
-        - Login & Register page
-        - Account page
-        - Product page
-        - Product Overview page
-        - Cart cum Payment page
-        - Orders History
-    • Tech stack:
-        - Frontend: HTML5 | CSS3 | Vanilla JavaScript
-        - Backend: NodeJS | ExpressJS | MongoDB
-    • Individual accomplished in 5 days
-    • My Contribution: Home page, individual product page, cart cum payment page
+1. CitySwagger - Clone of CharlesTyrwhitt.com  
+    Github Repo: https://github.com/patel-anshuman/handsomely-clam-5290  
+    Deployed Link: https://cheerful-zabaione-aa785a.netlify.app/  
+    Charles Tyrwhitt is a British menswear brand known for its high-quality and affordable men's shirts, suits, shoes, and accessories.  
+    • Features:  
+        - Landing page  
+        - Login & Register page  
+        - Account page  
+        - Product page  
+        - Product Overview page  
+        - Cart cum Payment page  
+        - Orders History  
+    • Tech stack:  
+        - Frontend: HTML5 | CSS3 | Vanilla JavaScript  
+        - Backend: NodeJS | ExpressJS | MongoDB  
+    • Individual accomplished in 5 days  
+    • My Contribution: Home page, individual product page, cart cum payment page  
 
-2. NextDoorBy - Clone of Nearbuy.com
-    Github Repo: https://github.com/simran0469/knowledgeable-skate-930
-    Deployed Link: https://cheery-youtiao-bf895c.netlify.app/
-    Nearbuy is an e-commerce platform offering exclusive deals and discounts on food & beverage, beauty & wellness, entertainment and retails.
-    • Features: Responsive and pixel-perfect layouts
-      - User Side: Home page, login page, product page, individual product page, and cart cum payment page
-      - Admin Side: Login, List products, Add/Update/Remove products
-    •Tech stack: HTML5 | CSS3 | Vanilla JavaScript
-    •Collaborative project (3 members) accomplished in 5 days
+2. NextDoorBy - Clone of Nearbuy.com  
+    Github Repo: https://github.com/simran0469/knowledgeable-skate-930  
+    Deployed Link: https://cheery-youtiao-bf895c.netlify.app/  
+    Nearbuy is an e-commerce platform offering exclusive deals and discounts on food & beverage, beauty & wellness, entertainment and retails.  
+    • Features: Responsive and pixel-perfect layouts  
+      - User Side: Home page, login page, product page, individual product page, and cart cum payment page  
+      - Admin Side: Login, List products, Add/Update/Remove products  
+    •Tech stack: HTML5 | CSS3 | Vanilla JavaScript  
+    •Collaborative project (3 members) accomplished in 5 days  
     •My Contribution: Home page, individual product page, cart cum payment page, login page  
 
-3. MileRoad - Clone of LimeRoad.com
-    Github Repo: https://github.com/patel-anshuman/necessary-book-3500
-    Deployed Link: https://prismatic-marzipan-47485e.netlify.app/
-    An e-commerce website that deals in clothing and accessories for women, men and kids.
-    •Features: Pixel-perfect layouts of the home page, products page(search, sort by price, filter by price & rating), sign-in/login feature, cart page and payment page.
-    •Tech stack: HTML5 | CSS3 | JavaScript
-    •Individual project accomplished in 5 days
+3. MileRoad - Clone of LimeRoad.com  
+    Github Repo: https://github.com/patel-anshuman/necessary-book-3500  
+    Deployed Link: https://prismatic-marzipan-47485e.netlify.app/  
+    An e-commerce website that deals in clothing and accessories for women, men and kids.  
+    •Features: Pixel-perfect layouts of the home page, products page(search, sort by price, filter by price & rating), sign-in/login feature, cart page and payment page.  
+    •Tech stack: HTML5 | CSS3 | JavaScript  
+    •Individual project accomplished in 5 days  
 
 **👨🏻‍🎓 Education**  
 • Full Stack Web Development (Full Time)      Masai School
