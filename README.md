@@ -1,7 +1,7 @@
 Hi, I am Anshuman Patel👋
 
 About Me
-I'm a passionate Full Stack Web Developer based in [Your City], with expertise in [Programming Languages/Frameworks/Technologies you work with]. My goal is to create intuitive, functional, and beautiful web applications that make a positive impact in the lives of users.
+I'm a Full Stack Web Developer based in Sambalpur, Odisha, with expertise in MERN stack. My goal is to create intuitive, functional, and beautiful web applications that make a positive impact in the lives of users.
 
 🧠 Skills
 Technical: NodeJS | ExpressJS | MongoDB | Vanilla JavaScript | HTML5 | CSS3
