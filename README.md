@@ -1,14 +1,16 @@
 Hi, I am Anshuman Patel👋
 
+
 👨🏻‍💼 About Me  
 I'm a Full Stack Web Developer based in Sambalpur, Odisha, with expertise in MERN stack. My goal is to create intuitive, functional, and beautiful web applications that make a positive impact in the lives of users.
+
 
 🧠 Skills  
 Technical: NodeJS | ExpressJS | MongoDB | Vanilla JavaScript | HTML5 | CSS3  
 Soft Skills: Attention to Detail | Team Work | Time Management
 
-⚒️ Projects  
 
+⚒️ Projects  
 1. CitySwagger - Clone of CharlesTyrwhitt.com
     Github Repo: https://github.com/patel-anshuman/handsomely-clam-5290
     Deployed Link: https://cheerful-zabaione-aa785a.netlify.app/
