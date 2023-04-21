@@ -1,7 +1,7 @@
 # Hi, I am Anshuman Patel 👋
 
 ## 👨🏻‍💼 About Me
-I'm a Full Stack Web Developer based in Sambalpur, Odisha, with expertise in MERN stack. My goal is to create intuitive, functional, and beautiful web applications that make a positive impact in the lives of users.
+A Full Stack Web Developer based in Sambalpur, Odisha, with expertise in MERN stack have the goal to create intuitive, functional, and beautiful web applications that make a positive impact in the lives of users.
 
 ## 🧠 Skills
 ### Technical:
@@ -27,15 +27,19 @@ Attention to Detail | Team Work | Time Management
     - Frontend: HTML5 | CSS3 | Vanilla JavaScript  
     - Backend: NodeJS | ExpressJS | MongoDB  
 - Individual accomplished in 5 days  
-- My Contribution: Home page, individual product page, cart cum payment page  
+- Area of responsibility: Home page, individual product page, cart cum payment page  
 
 ### 2. NextDoorBy - Clone of Nearbuy.com  
 - Github Repo: https://github.com/simran0469/knowledgeable-skate-930  
 - Deployed Link: https://cheery-youtiao-bf895c.netlify.app/  
 - Nearbuy is an e-commerce platform offering exclusive deals and discounts on food & beverage, beauty & wellness, entertainment and retails.  
 - Features: Responsive and pixel-perfect layouts  
-  - User Side: Home page, login page, product page, individual product page, and cart cum payment page  
-  - Admin Side: Login, List products, Add/Update/Remove products  
+  - Home page 
+  - Login & Signup page 
+  - Product page 
+  - Individual product page
+  - Cart cum payment page  
+  - Add/Update/Delete products by admin  
 - Tech stack: HTML5 | CSS3 | Vanilla JavaScript  
 - Collaborative project (3 members) accomplished in 5 days  
 - My Contribution: Home page, individual product page, cart cum payment page, login page  
@@ -44,7 +48,12 @@ Attention to Detail | Team Work | Time Management
 - Github Repo: https://github.com/patel-anshuman/necessary-book-3500  
 - Deployed Link: https://prismatic-marzipan-47485e.netlify.app/  
 - An e-commerce website that deals in clothing and accessories for women, men and kids.  
-- Features: Pixel-perfect layouts of the home page, products page(search, sort by price, filter by price & rating), sign-in/login feature, cart page and payment page.  
+- Features: 
+    - Home page 
+    - Products page - Search feature | Sort by price | Filter by price & rating
+    - Sign-up/Login page,
+    - Cart page
+    - Payment page.  
 - Tech stack: HTML5 | CSS3 | JavaScript  
 - Individual project accomplished in 5 days  
 
@@ -65,7 +74,7 @@ LinkedIn: https://www.linkedin.com/in/anshuman-patel-09610b156/
 Twitter: https://twitter.com/anshuman_ptl  
 Portfolio: https://patel-anshuman.github.io/  
   
-## 🎬 Other Interests  
-<in making>
+<!-- ## 🎬 Other Interests  
+<in making> -->
   
 Thanks for checking out my profile, and feel free to contact me if you're interested in collaborating on a project or have any questions!
