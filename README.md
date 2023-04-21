@@ -59,14 +59,13 @@ Attention to Detail | Team Work | Time Management
 
 ## 👨🏻‍🎓 Education  
 ### Full Stack Web Development (Full Time)  
-- Masai School  
+- Masai School, Bangalore  
 - Nov 2022 – Jul 2023  
 - Remote  
 
 ### Bachelor of Technology (Civil Engineering)  
 - Government College of Engineering, Keonjhar  
 - Aug 2016 – Aug 2020  
-- Keonjhar, Odisha  
 
 ## ℹ️ Contact Me  
 Email: patelanshuman6@gmail.com  
