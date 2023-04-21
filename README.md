@@ -59,9 +59,8 @@ Attention to Detail | Team Work | Time Management
 
 ## 👨🏻‍🎓 Education  
 ### Full Stack Web Development (Full Time)  
-- Masai School, Bangalore  
+- Masai School, Bangalore | Remote  
 - Nov 2022 – Jul 2023  
-- Remote  
 
 ### Bachelor of Technology (Civil Engineering)  
 - Government College of Engineering, Keonjhar  
