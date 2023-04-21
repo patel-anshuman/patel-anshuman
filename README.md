@@ -26,30 +26,32 @@ Attention to Detail | Team Work | Time Management
 - Tech stack:  
     - Frontend: HTML5 | CSS3 | Vanilla JavaScript  
     - Backend: NodeJS | ExpressJS | MongoDB  
-- Individual accomplished in 5 days  
-- Area of responsibility: Home page, individual product page, cart cum payment page  
+- Individual accomplished in 5 days   
 
 ### 2. NextDoorBy - Clone of Nearbuy.com  
 - Github Repo: https://github.com/simran0469/knowledgeable-skate-930  
 - Deployed Link: https://cheery-youtiao-bf895c.netlify.app/  
 - Nearbuy is an e-commerce platform offering exclusive deals and discounts on food & beverage, beauty & wellness, entertainment and retails.  
 - Features: Responsive and pixel-perfect layouts  
-  - Home page 
+  - Landing page 
   - Login & Signup page 
   - Product page 
   - Individual product page
   - Cart cum payment page  
   - Add/Update/Delete products by admin  
 - Tech stack: HTML5 | CSS3 | Vanilla JavaScript  
-- Collaborative project (3 members) accomplished in 5 days  
-- My Contribution: Home page, individual product page, cart cum payment page, login page  
+- Collaborative project of 3 members accomplished in 5 days  
+- Area of responsibility: 
+  - Landing page
+  - Individual product page 
+  - Cart cum payment page  
 
 ### 3. MileRoad - Clone of LimeRoad.com  
 - Github Repo: https://github.com/patel-anshuman/necessary-book-3500  
 - Deployed Link: https://prismatic-marzipan-47485e.netlify.app/  
 - An e-commerce website that deals in clothing and accessories for women, men and kids.  
 - Features: 
-    - Home page 
+    - Landing page 
     - Products page - Search feature | Sort by price | Filter by price & rating
     - Sign-up/Login page,
     - Cart page
