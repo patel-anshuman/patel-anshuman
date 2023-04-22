@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anshuman Patel</h1>
 <h3 align="center">Full Stack Web Developer</h3>
-# Hi, I am Anshuman Patel 👋
+
 
 ## 👨🏻‍💼 About Me
 A Full Stack Web Developer based in Sambalpur, Odisha, with expertise in MERN stack have the goal to create intuitive, functional, and beautiful web applications that make a positive impact in the lives of users.
