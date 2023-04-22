@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Anshuman Patel</h1>
+<h3 align="center">Full Stack Web Developer</h3>
 # Hi, I am Anshuman Patel 👋
 
 ## 👨🏻‍💼 About Me
