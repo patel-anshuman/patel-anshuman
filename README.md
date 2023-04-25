@@ -14,7 +14,7 @@ Attention to Detail | Team Work | Time Management
 
 ## ⚒️ Projects
 ### 1. CitySwagger - Clone of CharlesTyrwhitt.com  
-- Github Repo: https://github.com/patel-anshuman/handsomely-clam-5290  
+- Github Repo: https://github.com/patel-anshuman/CitySwagger---Clone-of-CharlesTyrwhitt.com  
 - Deployed Link: https://cheerful-zabaione-aa785a.netlify.app/  
 - Charles Tyrwhitt is a British menswear brand known for its high-quality and affordable men's shirts, suits, shoes, and accessories.  
 - Features:  
@@ -49,7 +49,7 @@ Attention to Detail | Team Work | Time Management
   - Cart cum payment page  
 
 ### 3. MileRoad - Clone of LimeRoad.com  
-- Github Repo: https://github.com/patel-anshuman/necessary-book-3500  
+- Github Repo: https://github.com/patel-anshuman/MileRoad---Clone-of-Limeroad.com  
 - Deployed Link: https://prismatic-marzipan-47485e.netlify.app/  
 - An e-commerce website that deals in clothing and accessories for women, men and kids.  
 - Features: 
