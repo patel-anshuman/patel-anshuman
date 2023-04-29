@@ -72,7 +72,7 @@ Attention to Detail | Team Work | Time Management
 
 ## ℹ️ Contact Me  
 Email: patelanshuman6@gmail.com  
-LinkedIn: https://www.linkedin.com/in/anshuman-patel-09610b156/  
+LinkedIn: https://www.linkedin.com/in/patel-anshuman/  
 Twitter: https://twitter.com/anshuman_ptl  
 Portfolio: https://patel-anshuman.github.io/  
   
