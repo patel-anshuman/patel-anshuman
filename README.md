@@ -21,8 +21,7 @@ Attention to Detail | Team Work | Time Management
 - Government College of Engineering, Keonjhar  
 - Aug 2016 – Aug 2020  
 
-## ℹ️ Contact Me  
-Email: patelanshuman6@gmail.com  
+## ℹ️ Contact Me   
 LinkedIn: https://www.linkedin.com/in/patel-anshuman/  
 Twitter: https://twitter.com/anshuman_ptl  
 Portfolio: https://patel-anshuman.github.io/  
