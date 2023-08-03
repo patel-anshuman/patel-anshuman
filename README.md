@@ -3,14 +3,14 @@
 
 
 ## 👨🏻‍💼 About Me
-A Full Stack Web Developer based in Sambalpur, Odisha, with expertise in MERN stack have the goal to create intuitive, functional, and beautiful web applications that make a positive impact in the lives of users.
+A Full Stack Web Developer based in Sambalpur, Odisha, with expertise in MERN stack, aims to create intuitive, functional, and beautiful web applications that positively impact users' lives.
 
 ## 🧠 Skills
 ### Technical:
-NodeJS | ExpressJS | MongoDB | Vanilla JavaScript | HTML5 | CSS3  
+NodeJS | ExpressJS | MongoDB | MySQL | Vanilla JavaScript | HTML5 | CSS3  
 
 ### Soft Skills:
-Attention to Detail | Team Work | Time Management
+Attention to Detail | Adaptability | Team Work | Time Management
 
 ## 👨🏻‍🎓 Education  
 ### Full Stack Web Development (Full Time)  
