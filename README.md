@@ -3,8 +3,10 @@
 
 
 ## 👨🏻‍💼 About Me
-A Full Stack Web Developer based in Sambalpur, Odisha, with expertise in MERN stack, aims to create intuitive, functional, and beautiful web applications that positively impact users' lives.
-
+Hi, I'm Anshuman Patel, an aspiring full-stack web developer with a background in Civil Engineering from Government College of Engineering, Keonjhar, Odisha.  
+  
+I have worked on several projects and have hands-on experience in HTML, CSS, JavaScript, React for frontend development, and Node.js, Express.js, and databases like MongoDB and MySQL for the backend development.  
+  
 ## 🧠 Skills
 ### Technical:
 NodeJS | ExpressJS | MongoDB | MySQL | Vanilla JavaScript | HTML5 | CSS3  
