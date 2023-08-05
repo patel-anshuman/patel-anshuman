@@ -13,10 +13,9 @@ I have worked on several projects and have hands-on experience in HTML, CSS, Jav
 
 - 📄 My Resume [here](https://drive.google.com/file/d/1klkZIhWPlNhSPiF2gR4YOyKMtD48l8uq/view?usp=sharing)
 
-
   
-## 🧠 Skills
-### Technical:
+## 🧠 Skills  
+### Technical:  
 <p align="left"> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
@@ -48,6 +47,8 @@ Attention to Detail | Adaptability | Team Work | Time Management
  <a href="https://www.behance.net/anshuman_ptl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="anshuman_ptl" height="30" width="40" /></a>
 </p> 
 
+## 🧠 Git Stats  
+  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=patel-anshuman&show_icons=true&locale=en&layout=compact" alt="patel-anshuman" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patel-anshuman&show_icons=true&locale=en" alt="patel-anshuman" /></p>
