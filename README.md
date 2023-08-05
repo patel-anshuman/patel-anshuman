@@ -60,9 +60,3 @@ Thanks for checking out my profile, and feel free to contact me if you're intere
 
 
 
-
-
-<h3 align="left">Connect with me:</h3>
-
-
-
