@@ -42,6 +42,7 @@ I have worked on several projects and have hands-on experience in HTML, CSS, Jav
 Attention to Detail | Adaptability | Team Work | Time Management
 
 ## ℹ️ Connect with Me   
+  
 <p align="left">
  <a href="https://linkedin.com/in/patel-anshuman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patel-anshuman" height="30" width="40" /></a>
  <a href="https://www.behance.net/anshuman_ptl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="anshuman_ptl" height="30" width="40" /></a>
@@ -56,6 +57,7 @@ Attention to Detail | Adaptability | Team Work | Time Management
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patel-anshuman&" alt="patel-anshuman" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patel-anshuman" alt="patel-anshuman" /></a> </p>
+
   
 Thanks for checking out my profile, and feel free to contact me if you're interested in collaborating on a project or have any questions!
 
