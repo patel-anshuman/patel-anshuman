@@ -20,6 +20,11 @@ I have worked on several projects and have hands-on experience in HTML, CSS, Jav
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
 </p>
 
+### Tools:
+<p align="left"> 
+   
+</p>
+
 ### Soft Skills:
 Attention to Detail | Adaptability | Team Work | Time Management
 
@@ -50,7 +55,7 @@ Thanks for checking out my profile, and feel free to contact me if you're intere
 
 - 📫 How to reach me **patelanshuman6@gmail.com**
 
-- 📄 My Resume [https://drive.google.com/file/d/1klkZIhWPlNhSPiF2gR4YOyKMtD48l8uq/view?usp=sharing](https://drive.google.com/file/d/1klkZIhWPlNhSPiF2gR4YOyKMtD48l8uq/view?usp=sharing)
+- 📄 My Resume [here](https://drive.google.com/file/d/1klkZIhWPlNhSPiF2gR4YOyKMtD48l8uq/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
