@@ -3,7 +3,7 @@
 
 
 ## 👨🏻‍💼 About Me
-An aspiring Full-Stack Web Developer with a background in Civil Engineering from Government College of Engineering, Keonjhar, Odisha. I've worked upon multiple projects, gaining hands-on experience in frontend technologies including HTML, CSS, JavaScript, React, and TypeScript. On the backend, I've worked extensively with Node.js, Express.js, and databases such as MongoDB and MySQL. Seeking a challenging role to leverage and enhance my skills, while making a meaningful contribution to organizational growth.  
+> An aspiring Full-Stack Web Developer with a background in Civil Engineering from Government College of Engineering, Keonjhar, Odisha. I've worked upon multiple projects, gaining hands-on experience in frontend technologies including HTML, CSS, JavaScript, React, and TypeScript. On the backend, I've worked extensively with Node.js, Express.js, and databases such as MongoDB and MySQL. Seeking a challenging role to leverage and enhance my skills, while making a meaningful contribution to organizational growth.  
 
 - 👨‍💻 All of my projects are available at [patel-anshuman.github.io](patel-anshuman.github.io)
 
