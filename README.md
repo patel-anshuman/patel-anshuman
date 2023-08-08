@@ -61,8 +61,8 @@ Attention to Detail | Adaptability | Team Work | Time Management
 
 
 
-  
-Thanks for checking out my profile, and feel free to contact me if you're interested in collaborating on a project or have any questions!
+> Thanks for checking out my profile, and feel free to contact me if you're interested in collaborating on a project or have any questions!
+
 
 
 
