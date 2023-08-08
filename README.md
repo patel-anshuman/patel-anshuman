@@ -55,8 +55,9 @@ Attention to Detail | Adaptability | Team Work | Time Management
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=patel-anshuman" alt="patel-anshuman" style="height: 130px;" />
 
-  <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patel-anshuman" alt="patel-anshuman" /></a></p>
+  <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src=["https://github-profile-trophy.vercel.app/?username=patel-anshuman](https://github-profile-trophy.vercel.app/?username=patel-anshuman&title=Commits,Issues,PullRequest,Repositories,Stars,Followers&margin-w=15&margin-h=15)" alt="patel-anshuman" /></a></p>
 </div>
+
 
 
 
