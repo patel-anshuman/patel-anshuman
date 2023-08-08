@@ -42,8 +42,9 @@ Attention to Detail | Adaptability | Team Work | Time Management
 ## ℹ️ Connect with Me   
   
 <p align="left">
- <a href="https://linkedin.com/in/patel-anshuman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patel-anshuman" height="30" width="40" /></a>
- <a href="https://www.behance.net/anshuman_ptl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="anshuman_ptl" height="30" width="40" /></a>
+ <a href="https://linkedin.com/in/patel-anshuman" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="patel-anshuman" height="30" width="40" /></a>
+ <a href="https://www.behance.net/anshuman_ptl" target="blank"><img align="center" src="https://img.shields.io/badge/Behance-white?logo=behance&logoColor=blue" alt="anshuman_ptl" height="30" width="40" /></a>
+  <a href="https://www.twitter.com/anshuman_ptl" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white" alt="anshuman_ptl" height="30" width="40" /></a>
 </p> 
 
 ## 🧠 Git Stats  
