@@ -48,12 +48,12 @@ Attention to Detail | Adaptability | Team Work | Time Management
 
 ## 🧠 Git Stats  
   
-<div style="width: 600px; margin: 0 auto;">
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=patel-anshuman&show_icons=true&locale=en&layout=compact" alt="patel-anshuman" /></p>
+<div style="margin: 0 auto;">
+  <span align="center" style="width: 300px;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=patel-anshuman&show_icons=true&locale=en&layout=compact" alt="patel-anshuman" /></span>
 
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=patel-anshuman&show_icons=true&locale=en" alt="patel-anshuman" /></p>
+  <span align="center" style="width: 300px;"><img src="https://github-readme-stats.vercel.app/api?username=patel-anshuman&show_icons=true&locale=en" alt="patel-anshuman" /></span>
 
-  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=patel-anshuman&" alt="patel-anshuman" /></p>
+  <span align="center" style="width: 300px;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=patel-anshuman&" alt="patel-anshuman" /></span>
 
   <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patel-anshuman" alt="patel-anshuman" /></a></p>
 </div>
