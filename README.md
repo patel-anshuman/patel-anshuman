@@ -39,14 +39,6 @@ An aspiring Full-Stack Web Developer with a background in Civil Engineering from
 ### Soft Skills:
 Attention to Detail | Adaptability | Team Work | Time Management
 
-## ℹ️ Connect with Me   
-  
-<p align="left">
- <a href="https://linkedin.com/in/patel-anshuman" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="patel-anshuman" height="30" /></a>
- <a href="https://www.behance.net/anshuman_ptl" target="blank"><img align="center" src="https://img.shields.io/badge/Behance-white?logo=behance&logoColor=blue" alt="anshuman_ptl" height="30" /></a>
-  <a href="https://www.twitter.com/anshuman_ptl" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white" alt="anshuman_ptl" height="30" /></a>
-</p> 
-
 ## 🧠 Git Stats  
   
 <div align="center">
@@ -59,7 +51,13 @@ Attention to Detail | Adaptability | Team Work | Time Management
   <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patel-anshuman&title=Commits,Issues,PullRequest,Repositories,Stars,Followers&margin-w=15&margin-h=15" alt="patel-anshuman" /></a></p>
 </div>
 
-
+## ℹ️ Connect with Me   
+  
+<p align="left">
+ <a href="https://linkedin.com/in/patel-anshuman" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="patel-anshuman" height="20" /></a>
+ <a href="https://www.behance.net/anshuman_ptl" target="blank"><img align="center" src="https://img.shields.io/badge/Behance-white?logo=behance&logoColor=blue" alt="anshuman_ptl" height="20" /></a>
+  <a href="https://www.twitter.com/anshuman_ptl" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white" alt="anshuman_ptl" height="20" /></a>
+</p> 
 
 
 
