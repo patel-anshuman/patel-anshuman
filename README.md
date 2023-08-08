@@ -49,11 +49,11 @@ Attention to Detail | Adaptability | Team Work | Time Management
 ## 🧠 Git Stats  
   
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patel-anshuman&show_icons=true&locale=en&layout=compact" alt="patel-anshuman" style="height: 130px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patel-anshuman&show_icons=true&locale=en&layout=compact" alt="patel-anshuman" style="height: 140px;" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=patel-anshuman&show_icons=true&locale=en" alt="patel-anshuman" style="height: 130px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=patel-anshuman&show_icons=true&locale=en" alt="patel-anshuman" style="height: 140px;" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patel-anshuman" alt="patel-anshuman" style="height: 130px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patel-anshuman" alt="patel-anshuman" style="height: 140px;" />
 
   <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patel-anshuman&title=Commits,Issues,PullRequest,Repositories,Stars,Followers&margin-w=15&margin-h=15" alt="patel-anshuman" /></a></p>
 </div>
