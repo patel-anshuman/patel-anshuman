@@ -48,15 +48,18 @@ Attention to Detail | Adaptability | Team Work | Time Management
 
 ## 🧠 Git Stats  
   
+## 🧠 Git Stats  
+  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patel-anshuman&show_icons=true&locale=en&layout=compact" alt="patel-anshuman" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patel-anshuman&show_icons=true&locale=en&layout=compact" alt="patel-anshuman" style="height: 150px;" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=patel-anshuman&show_icons=true&locale=en" alt="patel-anshuman" />
+  <img src="https://github-readme-stats.vercel.app/api?username=patel-anshuman&show_icons=true&locale=en" alt="patel-anshuman" style="height: 150px;" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patel-anshuman" alt="patel-anshuman" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patel-anshuman" alt="patel-anshuman" style="height: 150px;" />
 
   <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patel-anshuman" alt="patel-anshuman" /></a></p>
 </div>
+
 
 
 
