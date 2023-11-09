@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **patelanshuman6@gmail.com**
 
-- 📄 [My Resume](https://drive.google.com/file/d/1klkZIhWPlNhSPiF2gR4YOyKMtD48l8uq/view?usp=sharing){:target="_blank"}
+- 📄 [My Resume](https://drive.google.com/file/d/1klkZIhWPlNhSPiF2gR4YOyKMtD48l8uq/view?usp=sharing)
 
   
 ## 🧠 Skills  
