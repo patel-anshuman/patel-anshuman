@@ -32,7 +32,6 @@
 </div>
 
 ***
-##
 ![Skills!](/images/heading_skills.png "Skills") 
 
 ##
@@ -97,7 +96,6 @@
 </div>
 
 ***
-##
 ![GitHub Statistics!](/images/heading_github.png "GitHub") 
   
 <div align="center">
@@ -110,5 +108,5 @@
   <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patel-anshuman&title=Commits,Issues,PullRequest,Repositories,Stars,Followers&margin-w=15&margin-h=15" alt="patel-anshuman" /></a></p>
 </div>
 
-##
+***
 <p align="center">Thanks for checking out my profile, and feel free to contact me if you're interested in collaborating on a project or have any questions!</p>
