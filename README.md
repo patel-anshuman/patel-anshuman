@@ -11,20 +11,23 @@
   <a href="https://drive.google.com/file/d/1klkZIhWPlNhSPiF2gR4YOyKMtD48l8uq/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Resume&logo=linktree&label=My&color=319676&logoColor=white&labelColor=333&style=for-the-badge" height="40" alt="Portfolio"  />
   </a>
+  <img width="5" />
   <a href="https://patel-anshuman.github.io/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=linktree&label=My&color=de2844&logoColor=white&labelColor=333&style=for-the-badge" height="40" alt="Resume"  />
   </a>
 </div>
 
-##
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/patel-anshuman" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
+  <img width="5" />
   <a href="mailto:patelanshuman6@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
+  <img width="5" />
   <a href="https://www.behance.net/patel-anshuman" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="behance logo"  />
   </a>
