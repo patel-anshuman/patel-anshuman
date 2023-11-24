@@ -76,28 +76,17 @@
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="30" alt="vercel logo"  />
 </div>
 
-<div>
-  <img src="https://img.shields.io/badge/Attention to Detail-DC382D?&logoColor=white&style=for-the-badge" height="30" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" height="30" alt="socketio logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="30" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=black&style=for-the-badge" height="30" alt="netlify logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="30" alt="vercel logo"  />
-</div>
-
 ### Soft Skills:
-Attention to Detail | Adaptability | Team Work | Time Management
+<div>
+  <img src="https://img.shields.io/badge/Attention to Detail-004080?&logoColor=white&style=for-the-badge" height="30" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Adaptability-669966?logoColor=white&style=for-the-badge" height="30" alt="socketio logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Team Work-3399FF?logoColor=white&style=for-the-badge" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Time Management-FFA500?logoColor=black&style=for-the-badge" height="30" alt="postman logo"  />
+  <img width="12" />
+</div>
 
 ## 🧠 Git Stats  
   
