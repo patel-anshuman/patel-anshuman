@@ -1,6 +1,35 @@
 <h1 align="center">Hi 👋, I'm Anshuman Patel</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
+<div align="center">
+  <img height="170" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://patel-anshuman.github.io/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=linktree&label=My&color=de2844&logoColor=white&labelColor=333&style=for-the-badge" height="40" alt="linktree logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/patel-anshuman" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:patelanshuman6@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  </a>
+  <a href="https://www.behance.net/patel-anshuman" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="behance logo"  />
+  </a>
+</div>
 
 ## 👨🏻‍💼 About Me
 > As an aspiring Full-Stack Web Developer, I bring a background in Civil Engineering from the Government College of Engineering, Keonjhar, Odisha. With hands-on experience in a range of technologies, from HTML, CSS, JavaScript, React, and TypeScript on the frontend, to Node.js, Express.js, MongoDB and MySQL on the backend, I'm adept at both solo and collaborative project development. I've also demonstrated my commitment to continuous learning and innovation by integrating generative AI and OpenAI tools, and I'm now eager to contribute my skills to organizational growth.
@@ -83,39 +112,7 @@ Attention to Detail | Adaptability | Team Work | Time Management
   <a href="https://www.twitter.com/anshuman_ptl" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white" alt="anshuman_ptl" height="20" /></a>
 </p> 
 
-
-
 > Thanks for checking out my profile, and feel free to contact me if you're interested in collaborating on a project or have any questions!
-
-<div align="center">
-  <img height="170" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://patel-anshuman.github.io/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=linktree&label=My&color=de2844&logoColor=white&labelColor=333&style=for-the-badge" height="40" alt="linktree logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/patel-anshuman" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="patelanshuman6@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-  </a>
-  <a href="https://www.behance.net/patel-anshuman" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="behance logo"  />
-  </a>
-</div>
 
 ###
 
