@@ -33,7 +33,7 @@
 ***
   
 ![Skills!](/images/heading_skills.png "Skills") 
-### Technical:
+![Technical skills!](/images/sh_tech.png "Technical Skills")
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo" />
   <img width="5" />
@@ -59,7 +59,7 @@
   <img width="5" />
 </div>
 
-### Tools:
+![Tools!](/images/sh_tools.png "Tools")
 <div align="left">
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" height="30" alt="redis logo" />
   <img width="5" />
@@ -80,7 +80,7 @@
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="30" alt="vercel logo" />
 </div>
 
-### Soft Skills:
+![Soft skills!](/images/sh_soft.png "Soft Skills")
 <div align="left">
   <img src="https://img.shields.io/badge/Attention to Detail-004080?&logoColor=white&style=for-the-badge" height="30" alt="Attention to Detail" />
   <img width="5" />
