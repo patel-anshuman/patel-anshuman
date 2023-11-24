@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Anshuman Patel</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
+> As an aspiring Full-Stack Web Developer, I bring a background in Civil Engineering from the Government College of Engineering, Keonjhar, Odisha. With hands-on experience in a range of technologies, from HTML, CSS, JavaScript, React, and TypeScript on the frontend, to Node.js, Express.js, MongoDB and MySQL on the backend, I'm adept at both solo and collaborative project development. I've also demonstrated my commitment to continuous learning and innovation by integrating generative AI and OpenAI tools, and I'm now eager to contribute my skills to organizational growth.
+
 <div align="center">
   <img height="170" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif"  />
 </div>
 
 ###
+📄 [My Resume](https://drive.google.com/file/d/1klkZIhWPlNhSPiF2gR4YOyKMtD48l8uq/view?usp=sharing)
 
 <br clear="both">
 
@@ -30,16 +33,6 @@
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="behance logo"  />
   </a>
 </div>
-
-## 👨🏻‍💼 About Me
-> As an aspiring Full-Stack Web Developer, I bring a background in Civil Engineering from the Government College of Engineering, Keonjhar, Odisha. With hands-on experience in a range of technologies, from HTML, CSS, JavaScript, React, and TypeScript on the frontend, to Node.js, Express.js, MongoDB and MySQL on the backend, I'm adept at both solo and collaborative project development. I've also demonstrated my commitment to continuous learning and innovation by integrating generative AI and OpenAI tools, and I'm now eager to contribute my skills to organizational growth.
-
-- 👨‍💻 All of my projects are available at [patel-anshuman.github.io](patel-anshuman.github.io)
-
-- 📫 How to reach me **patelanshuman6@gmail.com**
-
-- 📄 [My Resume](https://drive.google.com/file/d/1klkZIhWPlNhSPiF2gR4YOyKMtD48l8uq/view?usp=sharing)
-
   
 ## 🧠 Skills  
 ### Technical:  
@@ -104,14 +97,4 @@ Attention to Detail | Adaptability | Team Work | Time Management
   <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patel-anshuman&title=Commits,Issues,PullRequest,Repositories,Stars,Followers&margin-w=15&margin-h=15" alt="patel-anshuman" /></a></p>
 </div>
 
-## ℹ️ Connect with Me   
-  
-<p align="left">
- <a href="https://linkedin.com/in/patel-anshuman" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="patel-anshuman" height="20" /></a>
- <a href="https://www.behance.net/anshuman_ptl" target="blank"><img align="center" src="https://img.shields.io/badge/Behance-white?logo=behance&logoColor=blue" alt="anshuman_ptl" height="20" /></a>
-  <a href="https://www.twitter.com/anshuman_ptl" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white" alt="anshuman_ptl" height="20" /></a>
-</p> 
-
 > Thanks for checking out my profile, and feel free to contact me if you're interested in collaborating on a project or have any questions!
-
-
