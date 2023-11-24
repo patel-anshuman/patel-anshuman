@@ -110,4 +110,4 @@
 </div>
 
 ***
-<p align="center">Thanks for checking out my profile, and feel free to contact me if you're interested in collaborating on a project or have any questions!</p>
+![GitHub Footer!](/images/github_footer.png "Thanks for checking out my profile, and feel free to contact me if you're interested in collaborating on a project or have any questions!")
