@@ -9,8 +9,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <a href="https://drive.google.com/file/d/1klkZIhWPlNhSPiF2gR4YOyKMtD48l8uq/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Resume&logo=linktree&label=My&color=319676&logoColor=white&labelColor=333&style=for-the-badge" height="40" alt="Portfolio"  />
