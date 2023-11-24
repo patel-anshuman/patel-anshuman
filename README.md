@@ -1,13 +1,8 @@
 ![GitHub Banner!](/images/github_banner.gif "Anshuman Patel -- Full Stack Web Developer")
 
-<h2 align="center">Hi 👋, I'm Anshuman Patel</h2>
-<h3 align="center">Full Stack Web Developer</h3>
-
 > As an aspiring Full-Stack Web Developer, I bring a background in Civil Engineering from the Government College of Engineering, Keonjhar, Odisha. With hands-on experience in a range of technologies, from HTML, CSS, JavaScript, React, and TypeScript on the frontend, to Node.js, Express.js, MongoDB and MySQL on the backend, I'm adept at both solo and collaborative project development. I've also demonstrated my commitment to continuous learning and innovation by integrating generative AI and OpenAI tools, and I'm now eager to contribute my skills to organizational growth.
 
-<div align="center">
-  <img height="200" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif"  />
-</div>
+<br clear="both">
 
 <div align="center">
   <a href="https://drive.google.com/file/d/1klkZIhWPlNhSPiF2gR4YOyKMtD48l8uq/view?usp=sharing" target="_blank">
@@ -52,7 +47,7 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="30" alt="express logo" />
   <img width="5" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo" />
+  <img src="https://img.shields.io/badge/Python-FBD02D?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo" />
   <img width="5" />
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="30" alt="flask logo" />
   <img width="5" />
@@ -68,7 +63,7 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" height="30" alt="socketio logo" />
   <img width="5" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="30" alt="figma logo" />
+  <img src="https://img.shields.io/badge/Figma-A259FF?logo=figma&logoColor=white&style=for-the-badge" height="30" alt="figma logo" />
   <img width="5" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="30" alt="postman logo" />
   <img width="5" />
@@ -107,4 +102,4 @@
   <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patel-anshuman&title=Commits,Issues,PullRequest,Repositories,Stars,Followers&margin-w=15&margin-h=15" alt="patel-anshuman" /></a></p>
 </div>
 
-> Thanks for checking out my profile, and feel free to contact me if you're interested in collaborating on a project or have any questions!
+<p align="center">Thanks for checking out my profile, and feel free to contact me if you're interested in collaborating on a project or have any questions!</p>
