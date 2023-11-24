@@ -99,11 +99,11 @@
 ![GitHub Statistics!](/images/heading_github.png "GitHub") 
   
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patel-anshuman&show_icons=true&locale=en&layout=compact" alt="patel-anshuman" style="height: 140px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=patel-anshuman&show_icons=true&locale=en" alt="patel-anshuman" style="height: 200px;" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patel-anshuman&show_icons=true&locale=en&layout=donut" alt="patel-anshuman" style="height: 200px;" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=patel-anshuman&show_icons=true&locale=en" alt="patel-anshuman" style="height: 140px;" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patel-anshuman" alt="patel-anshuman" style="height: 140px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patel-anshuman" alt="patel-anshuman" style="height: 200px;" />
 
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patel-anshuman" alt="patel-anshuman" /></a> </p>
 </div>
