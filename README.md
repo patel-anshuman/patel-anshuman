@@ -17,7 +17,7 @@
   </a>
 </div>
 
-
+<br clear="both">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/patel-anshuman" target="_blank">
