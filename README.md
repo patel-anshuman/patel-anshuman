@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Anshuman Patel</h2>
-<h3 align="center" style="letter-spacing: 2px;">Full Stack Web Developer</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 > As an aspiring Full-Stack Web Developer, I bring a background in Civil Engineering from the Government College of Engineering, Keonjhar, Odisha. With hands-on experience in a range of technologies, from HTML, CSS, JavaScript, React, and TypeScript on the frontend, to Node.js, Express.js, MongoDB and MySQL on the backend, I'm adept at both solo and collaborative project development. I've also demonstrated my commitment to continuous learning and innovation by integrating generative AI and OpenAI tools, and I'm now eager to contribute my skills to organizational growth.
 
@@ -83,14 +83,13 @@
 
 ### Soft Skills:
 <div align="left">
-  <img src="https://img.shields.io/badge/Attention to Detail-004080?&logoColor=white&style=for-the-badge" height="30" alt="redis logo" />
+  <img src="https://img.shields.io/badge/Attention to Detail-004080?&logoColor=white&style=for-the-badge" height="30" alt="Attention to Detail" />
   <img width="5" />
-  <img src="https://img.shields.io/badge/Adaptability-669966?logoColor=white&style=for-the-badge" height="30" alt="socketio logo" />
+  <img src="https://img.shields.io/badge/Adaptability-669966?logoColor=white&style=for-the-badge" height="30" alt="Adaptability" />
   <img width="5" />
-  <img src="https://img.shields.io/badge/Team Work-3399FF?logoColor=white&style=for-the-badge" height="30" alt="figma logo" />
+  <img src="https://img.shields.io/badge/Team Work-3399FF?logoColor=white&style=for-the-badge" height="30" alt="Team Work" />
   <img width="5" />
-  <img src="https://img.shields.io/badge/Time Management-FFA500?logoColor=black&style=for-the-badge" height="30" alt="postman logo" />
-  <img width="5" />
+  <img src="https://img.shields.io/badge/Time Management-FFA500?logoColor=black&style=for-the-badge" height="30" alt="Time Management" />
 </div>
 
 
