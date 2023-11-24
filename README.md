@@ -64,6 +64,8 @@
 ##
 ![Tools!](/images/sh_tools.png "Tools")
 <div align="left">
+  <img src="https://img.shields.io/badge/OpenAI-010101?logo=openai&logoColor=white&style=for-the-badge" height="30" alt="openai logo" />
+  <img width="5" />
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" height="30" alt="redis logo" />
   <img width="5" />
   <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" height="30" alt="socketio logo" />
