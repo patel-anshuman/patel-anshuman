@@ -29,6 +29,8 @@
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="behance logo"  />
   </a>
 </div>
+
+***
   
 ![Skills!](/images/heading_skills.png "Skills") 
 ### Technical:
@@ -89,6 +91,7 @@
   <img src="https://img.shields.io/badge/Time Management-FFA500?logoColor=black&style=for-the-badge" height="30" alt="Time Management" />
 </div>
 
+***
 
 ![GitHub Statistics!](/images/heading_github.png "GitHub") 
   
