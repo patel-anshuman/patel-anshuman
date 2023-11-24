@@ -114,6 +114,7 @@ Attention to Detail | Adaptability | Team Work | Time Management
 
 > Thanks for checking out my profile, and feel free to contact me if you're interested in collaborating on a project or have any questions!
 
+<!--
 ###
 
 <br clear="both">
@@ -135,5 +136,6 @@ Attention to Detail | Adaptability | Team Work | Time Management
 <img src="https://raw.githubusercontent.com/patel-anshuman/patel-anshuman/output/snake.svg" alt="Snake animation" />
 
 ###
+-->
 
 
