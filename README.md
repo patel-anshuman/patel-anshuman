@@ -114,28 +114,4 @@ Attention to Detail | Adaptability | Team Work | Time Management
 
 > Thanks for checking out my profile, and feel free to contact me if you're interested in collaborating on a project or have any questions!
 
-<!--
-###
-
-<br clear="both">
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=patel-anshuman&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patel-anshuman&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=patel-anshuman&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/patel-anshuman/patel-anshuman/output/snake.svg" alt="Snake animation" />
-
-###
--->
-
 
