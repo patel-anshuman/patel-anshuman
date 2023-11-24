@@ -77,7 +77,7 @@
 </div>
 
 <div>
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=Attention to Detail&logoColor=white&style=for-the-badge" height="30" alt="redis logo"  />
+  <img src="https://img.shields.io/badge/Attention to Detail-DC382D?&logoColor=white&style=for-the-badge" height="30" alt="redis logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" height="30" alt="socketio logo"  />
   <img width="12" />
