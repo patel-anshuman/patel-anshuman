@@ -1,3 +1,5 @@
+![GitHub Banner!](/images/github_banner.gif "Anshuman Patel -- Full Stack Web Developer")
+
 <h2 align="center">Hi 👋, I'm Anshuman Patel</h2>
 <h3 align="center">Full Stack Web Developer</h3>
 
