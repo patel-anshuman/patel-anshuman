@@ -16,6 +16,7 @@
 
 <br clear="both">
 
+##
 <div align="center">
   <a href="https://www.linkedin.com/in/patel-anshuman" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
@@ -31,8 +32,9 @@
 </div>
 
 ***
-  
+##
 ![Skills!](/images/heading_skills.png "Skills") 
+###
 ![Technical skills!](/images/sh_tech.png "Technical Skills")
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo" />
@@ -59,6 +61,7 @@
   <img width="5" />
 </div>
 
+###
 ![Tools!](/images/sh_tools.png "Tools")
 <div align="left">
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" height="30" alt="redis logo" />
@@ -80,6 +83,7 @@
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="30" alt="vercel logo" />
 </div>
 
+###
 ![Soft skills!](/images/sh_soft.png "Soft Skills")
 <div align="left">
   <img src="https://img.shields.io/badge/Attention to Detail-004080?&logoColor=white&style=for-the-badge" height="30" alt="Attention to Detail" />
@@ -92,7 +96,7 @@
 </div>
 
 ***
-
+###
 ![GitHub Statistics!](/images/heading_github.png "GitHub") 
   
 <div align="center">
@@ -105,4 +109,5 @@
   <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patel-anshuman&title=Commits,Issues,PullRequest,Repositories,Stars,Followers&margin-w=15&margin-h=15" alt="patel-anshuman" /></a></p>
 </div>
 
+###
 <p align="center">Thanks for checking out my profile, and feel free to contact me if you're interested in collaborating on a project or have any questions!</p>
