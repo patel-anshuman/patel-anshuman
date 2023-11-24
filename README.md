@@ -47,7 +47,7 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="30" alt="express logo" />
   <img width="5" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo" />
+  <img src="https://img.shields.io/badge/Python-FBD02D?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo" />
   <img width="5" />
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="30" alt="flask logo" />
   <img width="5" />
