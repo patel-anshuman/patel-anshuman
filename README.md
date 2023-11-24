@@ -61,7 +61,7 @@
 </div>
 
 ### Tools:
-<div>
+<div align="center">
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" height="30" alt="redis logo" />
   <img width="5" />
   <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" height="30" alt="socketio logo" />
@@ -82,7 +82,7 @@
 </div>
 
 ### Soft Skills:
-<div>
+<div align="center">
   <img src="https://img.shields.io/badge/Attention to Detail-004080?&logoColor=white&style=for-the-badge" height="30" alt="redis logo" />
   <img width="5" />
   <img src="https://img.shields.io/badge/Adaptability-669966?logoColor=white&style=for-the-badge" height="30" alt="socketio logo" />
