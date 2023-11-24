@@ -30,7 +30,7 @@
   </a>
 </div>
   
-## 🧠 Skills  
+![Skills!](/images/heading_skills.png "Skills") 
 ### Technical:
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo" />
@@ -90,7 +90,7 @@
 </div>
 
 
-## 🧠 Git Stats  
+![GitHub Statistics!](/images/heading_github.png "GitHub") 
   
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patel-anshuman&show_icons=true&locale=en&layout=compact" alt="patel-anshuman" style="height: 140px;" />
