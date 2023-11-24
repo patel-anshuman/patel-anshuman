@@ -14,8 +14,6 @@
   </a>
 </div>
 
-<br clear="both">
-
 ##
 <p align="center">Connect with me</p>
 <div align="center">
