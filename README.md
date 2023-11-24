@@ -63,7 +63,7 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" height="30" alt="socketio logo" />
   <img width="5" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="30" alt="figma logo" />
+  <img src="https://img.shields.io/badge/Figma-A259FF?logo=figma&logoColor=white&style=for-the-badge" height="30" alt="figma logo" />
   <img width="5" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="30" alt="postman logo" />
   <img width="5" />
