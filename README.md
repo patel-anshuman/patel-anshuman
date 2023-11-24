@@ -3,11 +3,11 @@
 
 > As an aspiring Full-Stack Web Developer, I bring a background in Civil Engineering from the Government College of Engineering, Keonjhar, Odisha. With hands-on experience in a range of technologies, from HTML, CSS, JavaScript, React, and TypeScript on the frontend, to Node.js, Express.js, MongoDB and MySQL on the backend, I'm adept at both solo and collaborative project development. I've also demonstrated my commitment to continuous learning and innovation by integrating generative AI and OpenAI tools, and I'm now eager to contribute my skills to organizational growth.
 
-<div align="left">
+<div align="center">
   <img height="200" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif"  />
 </div>
 
-<div align="left">
+<div align="center">
   <a href="https://drive.google.com/file/d/1klkZIhWPlNhSPiF2gR4YOyKMtD48l8uq/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Resume&logo=linktree&label=My&color=319676&logoColor=white&labelColor=333&style=for-the-badge" height="40" alt="Portfolio"  />
   </a>
@@ -19,7 +19,7 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/patel-anshuman" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
@@ -35,7 +35,7 @@
   
 ## 🧠 Skills  
 ### Technical:
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo" />
   <img width="5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo" />
@@ -61,7 +61,7 @@
 </div>
 
 ### Tools:
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" height="30" alt="redis logo" />
   <img width="5" />
   <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" height="30" alt="socketio logo" />
@@ -82,7 +82,7 @@
 </div>
 
 ### Soft Skills:
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Attention to Detail-004080?&logoColor=white&style=for-the-badge" height="30" alt="redis logo" />
   <img width="5" />
   <img src="https://img.shields.io/badge/Adaptability-669966?logoColor=white&style=for-the-badge" height="30" alt="socketio logo" />
