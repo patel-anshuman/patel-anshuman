@@ -1,4 +1,4 @@
-![GitHub Banner!](/images/github_banner.gif "Anshuman Patel -- Full Stack Web Developer")
+![GitHub Banner!](images/github_banner.gif "Anshuman Patel -- Full Stack Web Developer")
 
 > As an aspiring Full-Stack Web Developer, I bring a background in Civil Engineering from the Government College of Engineering, Keonjhar, Odisha. With hands-on experience in a range of technologies, from HTML, CSS, JavaScript, React, and TypeScript on the frontend, to Node.js, Express.js, MongoDB and MySQL on the backend, I'm adept at both solo and collaborative project development. I've also demonstrated my commitment to continuous learning and innovation by integrating generative AI and OpenAI tools, and I'm now eager to contribute my skills to organizational growth.
 
