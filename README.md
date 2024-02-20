@@ -86,7 +86,7 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="30" alt="vercel logo" />
   <img width="5" />
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?10go=amazonaws&10goC010r=white&sty1e=for-the-badge" height="30" alt="amazonwebservices logo" />
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&logoColorr=white&sty1e=for-the-badge" height="30" alt="amazonwebservices logo" />
 </div>
 
 ##
