@@ -61,7 +61,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo" />
   <img width="5" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="postgresql logo" />
-  <img width="5" />
 </div>
 
 ##
@@ -86,6 +85,8 @@
   <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=black&style=for-the-badge" height="30" alt="netlify logo" />
   <img width="5" />
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="30" alt="vercel logo" />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?10go=amazonaws&10goC010r=white&sty1e=for-the-badge" height="30" alt="amazonwebservices logo" />
 </div>
 
 ##
