@@ -66,6 +66,8 @@
 ##
 ![Tools!](/images/sh_tools.png "Tools")
 <div align="left">
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="30" alt="amazonwebservices logo" />
+  <img width="5" />
   <img src="https://img.shields.io/badge/OpenAI-010101?logo=openai&logoColor=white&style=for-the-badge" height="30" alt="openai logo" />
   <img width="5" />
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" height="30" alt="redis logo" />
@@ -85,8 +87,6 @@
   <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=black&style=for-the-badge" height="30" alt="netlify logo" />
   <img width="5" />
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="30" alt="vercel logo" />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="30" alt="amazonwebservices logo" />
 </div>
 
 ##
