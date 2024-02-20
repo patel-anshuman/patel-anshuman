@@ -50,7 +50,7 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="30" alt="express logo" />
   <img width="5" />
-  <img src="https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white&style=for-the-badge" height="30" alt="fastify logo" />
+  <img src="https://img.shields.io/badge/Fastify-FFFFFF?logo=fastify&logoColor=black&style=for-the-badge" height="30" alt="fastify logo" />
   <img width="5" />
   <img src="https://img.shields.io/badge/Python-FBD02D?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo" />
   <img width="5" />
@@ -60,7 +60,7 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo" />
   <img width="5" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4479A1?logo=postgre&logoColor=white&style=for-the-badge" height="30" alt="postgre logo" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="postgresql logo" />
   <img width="5" />
 </div>
 
